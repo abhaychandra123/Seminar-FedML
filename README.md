@@ -11,9 +11,11 @@
 
 
 ### Paper Progress:
-1. Communication-Efficient Learning of Deep Networks from Decentralized Data : MAIN INTRO PPR
+1. Communication-Efficient Learning of Deep Networks from Decentralized Data : MAIN INTRO PPR DONE
 
-2. 
+2. LOCAL SGD DONE ,have to look at proofs
+
+3. sampling Strategies in FL done
 
 ### Resources to explore:
 [text](https://www.tensorflow.org/federated/tutorials/working_with_client_data)
