@@ -1,0 +1,12 @@
+{
+  "test_name": "baseline_fedavg",
+  "config": {
+    "rounds": 10,
+    "fraction_train": 0.5,
+    "local_epochs": 1,
+    "lr": 0.01,
+    "supernodes": 5,
+    "strategy": "fedavg"
+  },
+  "log_file": "baseline_fedavg_output.log"
+}
